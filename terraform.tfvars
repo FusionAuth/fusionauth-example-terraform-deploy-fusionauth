@@ -1,0 +1,7 @@
+postgres_user                = "postgres"
+postgres_password            = "postgres"
+pgdata                       = "/var/lib/postgresql/data/pgdata"
+fusionauth_database_username = "fusionauth"
+fusionauth_database_password = "hkaLBM3RVnyYeYeqE3WI1w2e4Avpy0Wd5O3s3"
+fusionauth_app_memory        = "512M"
+fusionauth_app_runtime_mode  = "development"
