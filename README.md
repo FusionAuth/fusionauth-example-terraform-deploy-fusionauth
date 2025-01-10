@@ -1,2 +1,7 @@
-# fusionauth-public-repo-template
-Template for creating new public repos
+# fusionauth-example-terraform-deploy-fusionauth
+
+This example documents how to deploy FusionAuth and its database using Terraform.
+
+## Setup
+
+### Step
